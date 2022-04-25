@@ -10,13 +10,10 @@ Proje 3
   <p>
 <p> 6'nın sağından 8, solundan 7 bulunur.
     <p> 8'in sağından 9 bulunur.
-      
       <p>
         <p>
     <p> 4'ün sağından 3, solundan 2 bulunur.
-      <p> 2'nin solundan 1 bulunur.
-        
-        
+      <p> 2'nin solundan 1 bulunur.        
         <p>
           <p>
             <p>
